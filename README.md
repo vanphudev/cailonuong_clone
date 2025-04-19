@@ -162,14 +162,6 @@ website_phuongtrang_clone/
 
 3. **`dev`** is the development branch.
 
-4. **`phu`** is the feature branch.
-
-5. **`thuyy`** is the feature branch.
-
-6. **`thuy`** is the feature branch.
-
-7. **`toan`** is the feature branch.
-
 ### :exclamation: Guideline
 
 > [!NOTE]\
